@@ -1,4 +1,4 @@
-package rs.fon.bg.shapes;
+package rs.fon.bg.shapes.circle;
 
 public class Circle {
     double radius;
