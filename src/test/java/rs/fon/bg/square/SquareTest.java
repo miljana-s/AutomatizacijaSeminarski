@@ -11,7 +11,7 @@ public class SquareTest {
     public void testGetArea() {
         Square square = new Square(7);
         double result = square.getArea();
-        assertEquals(49.0, result, 0.0001);
+        assertEquals(1, result, 0.0001);
     }
 
     @Test
