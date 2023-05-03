@@ -11,7 +11,7 @@ public class CircleTest {
     public void testGetArea() {
         Circle circle = new Circle(3.5);
         double result = circle.getArea();
-        assertEquals(4, result, 0.0001);
+        assertEquals(38.48451000647496, result, 0.0001);
     }
 
     @Test
