@@ -1,4 +1,4 @@
-name: Run JUnit test with every push
+name: Run JUnit tests with every push
 on:
   push:
     branches:
