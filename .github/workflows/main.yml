@@ -1,4 +1,4 @@
-name: Run JUnit tests with every push
+name: 1.Run JUnit tests with every push; 2.Build and push Docker image
 on:
   push:
     branches:
